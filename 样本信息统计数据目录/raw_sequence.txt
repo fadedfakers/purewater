@@ -1,0 +1,2 @@
+#amplified_region	insert_size	sequencing_length	raw_reads	total_base
+338F_806R	468	PE300	958894*2	577254188
